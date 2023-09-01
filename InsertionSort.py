@@ -1,3 +1,4 @@
+# Time complexity O(n²)
 from numpy import random
 
 arrayNumbers = random.randint(100, size=(20))
